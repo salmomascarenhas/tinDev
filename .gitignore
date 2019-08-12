@@ -28,5 +28,3 @@ frontend.env.production.local
 dnpm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-frontend/
