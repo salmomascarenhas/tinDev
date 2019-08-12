@@ -1,5 +1,9 @@
 
-frontend/
+backend/.env
+backend/node_modules
+backend/yarn.lock
+backend/yarn-error.log
+node_modules/
 
 
 
